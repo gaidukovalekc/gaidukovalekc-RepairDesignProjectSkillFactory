@@ -1,0 +1,68 @@
+<div class="container projects-container">
+                <div class="projects-content">
+                    <div class="projects-page">
+                        <div class="projects-content_text"> 
+                            <h2>
+                                Completed projects
+                            </h2>
+                            <p class="text text-projects">
+                                Only a small part of the work performed by our company is presented<br>
+                                on the site. For 14 years on in the construction<br>
+                                market we have made happy more than 1000 families
+                            </p>
+                                <div class="projects-inner">
+                            
+                                    <div class="city">
+                                        <h3 class="subtitle subtitle-inner">
+                                            City:
+                                        </h3>
+                                        <p class="text text-inner">
+                                            Rostov-on-Don<br> LCD admiral
+                                        </p> 
+                                    </div>
+
+                                    <div class="apartment-area">
+                                        <h3 class="subtitle subtitle-inner">
+                                            apartment area:
+                                        </h3>
+                                        <p class="text text-inner">
+                                            81 m<sup>2</sup>
+                                        </p>
+                                    </div>
+
+                                    <div class="repair-time:">
+                                        <h3 class="subtitle subtitle-inner">
+                                            Repair time:
+                                        </h3>
+                                        <p class="text text-inner">
+                                            3.5 months
+                                        </p>
+                                    </div>
+
+                                    <div class="repair-cost">
+                                        <h3 class="subtitle subtitle-inner">
+                                            Repair Cost:
+                                        </h3>
+                                        <p   p class="text text-inner">
+                                            Upon request
+                                        </p>
+                                    </div>
+
+                                </div>
+                        </div>
+
+                        <div class="projects-content_picture">
+                            <header class="header-projects">   <!--больше отступ сверху, текст по низу-->
+                                <nav>
+                                    <ul class="projects-navigation">
+                                        <li class="projects-naviigation_item"><a href="#">Rostov-on-Don, Admiral</a></li>
+                                        <li class="projects-naviigation_item"><a href="#">Sochi Thieves</a></li>
+                                        <li class="projects-naviigation_item"><a href="#">Rostov-on-Don Patriotic</a></li>
+                                    </ul>
+                                </nav>
+                            </header>
+                            <img src="./images/img2.jpg" alt="photo of the interior option">
+                        </div>
+                    </div>
+                </div>
+            
